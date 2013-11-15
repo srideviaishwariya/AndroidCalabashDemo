@@ -20,9 +20,10 @@ To Run
     .../.../AndroidCalabashDemo/calabash-android> calabash-android run /.../.../AndroidCalabashDemo/bin/AndroidCalabashDemo.apk 
     irb(main):001:0> query "textview"
 
-Console 
-Query to list all the textview elements,
+To start irb Console 
 
     .../.../AndroidCalabashDemo/calabash-android> calabash-android console /.../.../AndroidCalabashDemo/bin/AndroidCalabashDemo.apk 
-    irb(main):001:0> query "textview"
 
+To Query for a list of all the textview elements in the irb console
+
+    irb(main):001:0> query "textview"
