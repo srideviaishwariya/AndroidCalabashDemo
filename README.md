@@ -1,4 +1,5 @@
-There are two projects,
+Projects
+======================
 
 AndroidCalabashDemo - a basic android app that contains buttons and text-view. 
 
