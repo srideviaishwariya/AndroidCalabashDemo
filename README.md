@@ -36,3 +36,6 @@ To Query for a list of all the textview elements in the irb console
     irb(main):001:0> start_test_server_in_background
     irb(main):001:0> query "textview"
 
+Calabash Ruby APIs
+
+- https://github.com/calabash/calabash-android/blob/master/documentation/ruby_api.md
