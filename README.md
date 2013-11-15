@@ -1,3 +1,9 @@
+There are two projects,
+
+AndroidCalabashDemo - a basic android app that contains buttons and text-view. 
+
+calabash-android - Is the cucumber code for testing the AndroidCalabashDemo.apk
+
 AndroidCalabashDemo
 ===================
 
