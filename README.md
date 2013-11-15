@@ -2,7 +2,8 @@ AndroidCalabashDemo
 ===================
 
 prerequisite
-Ruby 1.9.3
+
+- Ruby 1.9.3
 
 To Setup, install the following 
 
