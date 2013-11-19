@@ -21,6 +21,9 @@ To Setup, install the following
 - gem install rspec
 - export ANDROID_HOME=$HOME/android-sdk-macosx/....
 
+To create a Cucumber skeleton in the current folder
+
+      calabash-android gen
 
 To Run
 
