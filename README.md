@@ -45,14 +45,14 @@ Resigning and Running the apk
       $ export APK_FILE=/.../.../AndroidCalabashDemo/bin/AndroidCalabashDemo.apk
       $ calabash-android resign $APK_FILE
       $ calabash-android console $APK_FILE 
-          No test server found for this combination of app and calabash version. Recreating test server.
-          Done signing the test server. Moved it to test_servers/4e3f70a457fdec173986b5cb07eeb0f2_0.4.16.apk
-     irb(main):003:0> reinstall_apps
-         2353 KB/s (7289598 bytes in 3.025s)
-         2532 KB/s (555261 bytes in 0.214s)
-     nil
-     irb(main):004:0> start_test_server_in_background
-     nil
+      No test server found for this combination of app and calabash version. Recreating test server.
+      Done signing the test server. Moved it to test_servers/4e3f70a457fdec173986b5cb07eeb0f2_0.4.16.apk
+      irb(main):003:0> reinstall_apps
+      2353 KB/s (7289598 bytes in 3.025s)
+      2532 KB/s (555261 bytes in 0.214s)
+      nil
+      irb(main):004:0> start_test_server_in_background
+      nil
 
 Calabash Ruby APIs
 
